@@ -1,0 +1,116 @@
+\beginFile
+
+\beginVehicle
+0
+AUDI
+S7
+123456789ABCDEFGH
+22. 11. 1999
+61480
+22. 11. 2024
+no
+65535
+65535
+0. 0. 0
+\endVehicle
+
+\beginVehicle
+1
+BMW
+M3
+ABCDEFGH123456789
+22. 11. 1999
+61480
+22. 11. 2024
+yes
+0
+1
+27. 12. 2024
+\endVehicle
+
+\beginVehicle
+2
+SKODA
+FABIA
+FGHJKLASDOENC4156
+22. 11. 1999
+111470
+22. 11. 2024
+yes
+2
+2
+12. 12. 2024
+\endVehicle
+
+\beginVehicle
+3
+TOYOTA
+YARIS
+FGHJASKSDOENC4156
+22. 11. 1999
+111470
+22. 11. 2024
+yes
+2
+2
+12. 12. 2024
+\endVehicle
+
+\beginCustomer
+0
+Name
+Surname
+22. 11. 1999
+22. 11. 2024
+null
+\endCustomer
+
+\beginCustomer
+1
+Name2
+Surname2
+22. 11. 1999
+22. 11. 2024
+1
+\endCustomer
+
+\beginCustomer
+2
+Name3
+Surname3
+22. 11. 1999
+22. 11. 2024
+[2,3]
+\endCustomer
+
+\beginEmployee
+0
+Name4
+Surname4
+12. 12. 1994
+12. 12. 2024
+12. 12. 2025
+1
+\endEmployee
+
+\beginEmployee
+1
+Name5
+Surname5
+12. 12. 1994
+12. 12. 2024
+12. 12. 2025
+null
+\endEmployee
+
+\beginEmployee
+2
+Name6
+Surname6
+12. 12. 1994
+12. 12. 2024
+12. 12. 2025
+[2,3]
+\endEmployee
+
+\endFile
